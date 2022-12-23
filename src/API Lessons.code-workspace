@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../API Lessons"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "API Lessons"
+	}
+}
